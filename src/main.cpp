@@ -3,7 +3,7 @@
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
-#include <../env.h> // Environment file
+#include <../include/env.h> // Environment file
 
 ESP8266WebServer server(80);
 
